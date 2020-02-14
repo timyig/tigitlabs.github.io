@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-theme: jekyll-theme-slate
-=======
 # Site settings
 title: tigit labs
 description: Jekyll Theme Minimal Resume
@@ -21,4 +18,3 @@ google-analytics:
   id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
->>>>>>> update
